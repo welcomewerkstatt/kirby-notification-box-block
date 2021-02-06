@@ -1,0 +1,15 @@
+{
+  "name": "welcome-werkstatt/notification-box",
+  "description": "Custom block plugin for Kirby CMS that adds a notification box.",
+  "type": "kirby-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Moritz Stueckler",
+      "homepage": "https://github.com/pReya/"
+    }
+  ],
+  "require": {
+    "getkirby/composer-installer": "^1.2.1"
+  }
+}

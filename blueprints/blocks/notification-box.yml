@@ -1,0 +1,19 @@
+name: Notification Box
+icon: alert
+fields:
+  title:
+    label: Title
+    type: text
+  body:
+    required: true
+    label: Content
+    # inline: true
+    type: textarea
+  color:
+    label: Color
+    type: radio
+    default: error
+    options:
+      error: Error
+      warning: Warning
+      success: Success
